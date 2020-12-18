@@ -15,4 +15,6 @@ A database management web application for managing blood banks,donors and recepi
 ![](ss/10.png)
 ![](ss/11.png)
 ![](ss/12.png)
+![](ss/13.png)
+![](ss/14.png)
 https://sanyagoyal2000.github.io/RedWings/(Link of the web app)
